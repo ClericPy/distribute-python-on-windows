@@ -2,6 +2,10 @@
 Telling how to distribute python app on win32 platform.
 
 
+## Install
+
+> pip install distwin -U
+
 ## Usage
 
 > python3 -m distwin -h
